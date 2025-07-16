@@ -1,0 +1,10 @@
+{
+    "name": "bugfix",
+    "description": "Makes the internet a safe place for entomophobes. Detects & hides images containing bugs",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {},
+    "action": {},
+    "permissions": [],
+    "background":{}
+}
